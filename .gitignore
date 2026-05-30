@@ -1,0 +1,6 @@
+.env
+Dataset/
+*.csv
+*.parquet
+__pycache__/
+*.pyc
